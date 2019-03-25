@@ -1,2 +1,2 @@
 # EurekaHacks
-EurekaHacks Spring 2019 - Siemens Challenge
+EurekaHacks Data Science Hackathon Spring 2019 - Siemens Challenge
